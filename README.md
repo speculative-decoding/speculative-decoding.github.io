@@ -1,6 +1,6 @@
-# ACL 2023 Tutorial: Retrieval-based Language Models and Applications
+# COLING 2025 Tutorial: Speculative Decoding for Efficient LLM Inference
 
-The code is adapted from the [Nerfies website](https://nerfies.github.io).
+The code is adapted from the [Nerfies website](https://nerfies.github.io/) and https://github.com/ACL2023-Retrieval-LM/ACL2023-Retrieval-LM.github.io.
 
 
 ## Website License
